@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Windows 8 cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>srzw</author>
+  <homepage>https://store.kde.org/p/999870</homepage>
+  <licence></licence>
+  <version>1.01</version>
+  <rating>73</rating>
+  <downloads>69299</downloads>
+  <installedfile>/home/zombie/.icons//win8/*</installedfile>
+  <installedfile>/home/zombie/.icons//</installedfile>
+  <id>999870</id>
+  <releasedate>2013-02-09</releasedate>
+  <summary>Windows 8 cursors</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img//hive/content-pre1/155025-1.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img//hive/content-pre1/155025-1.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjA3MzUxMzciLCJvIjoiMSIsInMiOiI0MDA5ODU2YzU2OTUzZDlmYmM1NzRiMmRlNDI2YmNlMDU0ODJkMzA5NjY3NGEwOTNkYWM2ZmE2MGY0MDU1OTMxNDM5MjhiMDZkNTk4ZTA1ZjhhNGJkMjVkMmI4MzI1M2YwNjdkNTAyZjMxODBmZTkzYzgxZTM2MzI4Y2VkNTMzMSIsInQiOjE1ODEzNzA0OTIsInN0ZnAiOm51bGwsInN0aXAiOiI2OC41MS4yMjcuNzYifQ.oHF99Btj926ciYV4YoRJ8hO2FxiVccQYf8sC1PqOh_0/155025-win8.tar.gz</payload>
+  <tags>cursor,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Aero Mouse Cursors with Drop Shadow</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Moony</author>
+  <homepage>https://store.kde.org/p/999972</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>81</rating>
+  <downloads>116880</downloads>
+  <installedfile>/home/zombie/.icons//aero/*</installedfile>
+  <installedfile>/home/zombie/.icons//</installedfile>
+  <id>999972</id>
+  <releasedate>2019-07-10</releasedate>
+  <summary>Note that these cursor themes use symlinks for some cursors in order to reduce the size of the theme, and because hey, why duplicate data?  If you have a problem where only 1 or 2 cursors show up in the theme, then somehow, the extraction didn't work properly.  I would suggest doing something...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/3/8/c/4d2ddef92c23cd4143988e6fff49b2479c1f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/3/8/c/4d2ddef92c23cd4143988e6fff49b2479c1f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjI3NzQ0NTYiLCJvIjoiMSIsInMiOiI2MTFmMTY3ZTNiMzA4Y2Y1MGIyMWZhOGI0ZDU1MGYyYjFiNmIyMzY3YTY2OWEzYjQ4ODlkZjk4Mzg0OTRhZmMzNDJhODdhMjk0YjIwM2Q3ZDQ0Nzk1NzcyY2IyZTRhY2YzMzRmZDI1ZGU2OWNiNzA2MTY1YTM5OTZjNWZiZWJkYSIsInQiOjE1ODE4MTI1MzgsInN0ZnAiOm51bGwsInN0aXAiOiI2OC41MS4yMjcuNzYifQ.QCe6n-Az0Whzcs5YIyuUdlQpvnRK9zw2RLPux5SsyZo/aero.tar.gz</payload>
+  <tags>cursor,linux,unix,aero,windows,vista,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>XP White Animated</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>markitos66</author>
+  <homepage>https://store.kde.org/p/999539</homepage>
+  <licence></licence>
+  <version>2.00.00</version>
+  <rating>67</rating>
+  <downloads>3698</downloads>
+  <installedfile>/home/zombie/.icons//XPWhite/*</installedfile>
+  <installedfile>/home/zombie/.icons//</installedfile>
+  <id>999539</id>
+  <releasedate>2014-05-15</releasedate>
+  <summary>&lt;em>&lt;strong>XP White&lt;/strong>&lt;/em> is a X11 mouse theme multisized to 24, 32, 40, 48, 56 and 64 pixels. &lt;br />
+This one is a modification of Xp windows's animated system scheme.&lt;br />
+&lt;br />
+&lt;em>Important: If you do not like or have trouble installing a multisized mouse theme like this one, you...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img//hive/content-pre1/165107-1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img//hive/content-pre1/165107-1.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjA3MzQyODAiLCJvIjoiMSIsInMiOiJjMzIyMDJkOWU1YjA3ZmVjNjk3YTYxNmYwOTZkNjMyNzAwM2M5ZTAzYTgxZWNmMjliNjMyZGNhZWNjYTgxMTRjZWVhYWQ4YThkNTM3ODFmOTdhMTdiMzE2MTA1ZThmYzFiZjg3NTVlYjQ4YzVmMzgwMGYyNzNmZjM0OWE2NGVlMSIsInQiOjE1ODE4MTMwMjQsInN0ZnAiOm51bGwsInN0aXAiOiI2OC41MS4yMjcuNzYifQ.EnegjoTSKzzja_Tlp5rnpArfw1kHf_0XtN5NiZ4rSV4/165107-XPWhite.tgz</payload>
+  <tags>cursor,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>MacOS MOD</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>dcomim</author>
+  <homepage>https://store.kde.org/p/1241071</homepage>
+  <licence></licence>
+  <version>1.1.0</version>
+  <rating>83</rating>
+  <downloads>96076</downloads>
+  <installedfile>/home/zombie/.icons//El_Capitan_CursorsMODNew/*</installedfile>
+  <installedfile>/home/zombie/.icons//</installedfile>
+  <id>1241071</id>
+  <releasedate>2019-07-18</releasedate>
+  <summary>MacOS X MOD</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/f/8/a/997396b51826b3fb42abdb271be1716d373c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/f/8/a/997396b51826b3fb42abdb271be1716d373c.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjM0NTgyNzIiLCJvIjoiMSIsInMiOiIzODZlMTlmYmY0MGE3OTc5ZThlNjYwYzg5YzUwZWU2YjU5YTcyNWQ1NGZlOWFiOTY3NDBmNzU5YzJlMzkzMDUxMGViNGQ3ODI2YjA1YmFkMDdlMTNlNGU3MjA0YTZlMjRkMTJmZjc3ODdkNDI2OTU0MjNmMmI5ZTA1ZDRiZDYzMiIsInQiOjE1ODE4MTIyOTEsInN0ZnAiOm51bGwsInN0aXAiOiI2OC41MS4yMjcuNzYifQ.4HHUOD1U-dH4pkJeLDPj6P-mHkYO3w3XR-LNLEN-y_c/El_Capitan_CursorsMOD_1.1.0.zip</payload>
+  <tags>linux,unix,macos,macosx,cursor,cursors</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,16 @@
+{
+    "id": "8a6715da4207a63648df3c549b3741bb",
+    "metadata": {
+        "fullname": "xrandr-DELL S2440L-C9VNT3AJ0EKQ",
+        "name": "HDMI-0"
+    },
+    "mode": {
+        "refresh": 60,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "rotation": 1,
+    "scale": 1
+}

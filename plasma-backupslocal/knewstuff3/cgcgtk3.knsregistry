@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Windows 10 GTK</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>sinner59</author>
+  <homepage>https://store.kde.org/p/1013580</homepage>
+  <licence></licence>
+  <version>1.7</version>
+  <rating>73</rating>
+  <downloads>15087</downloads>
+  <installedfile>/home/zombie/.themes//Windows10/*</installedfile>
+  <installedfile>/home/zombie/.themes//</installedfile>
+  <id>1013580</id>
+  <releasedate>2019-06-22</releasedate>
+  <summary>Windows 10 build 1511 gtk3 theme (+ gtk2).&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Please rate it if you like or/and uses !&lt;/strong>&lt;/span>&lt;br />
+(consider this as a flat theme artwork simply, nothing more).&lt;br />
+&lt;br />
+&lt;strong>Install&lt;/strong>&lt;br />
+uncompress into:&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img//hive/content-pre1/174303-1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img//hive/content-pre1/174303-1.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1561226177/s/cd5933290b6709d6d8b4c5bc0732c1b3/t/1578837804/o/1/Windows10-gtk-3.20-1.7.tar.gz</payload>
+  <tags>theme,unix,windows,windows10,gnome,linux,original-product,gplv2-later,gtk3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

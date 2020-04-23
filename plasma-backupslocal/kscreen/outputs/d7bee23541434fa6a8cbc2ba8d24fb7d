@@ -1,0 +1,16 @@
+{
+    "id": "d7bee23541434fa6a8cbc2ba8d24fb7d",
+    "metadata": {
+        "fullname": "xrandr-unknown",
+        "name": "DP-0"
+    },
+    "mode": {
+        "refresh": 60.020423889160156,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "rotation": 1,
+    "scale": 1
+}

@@ -1,0 +1,16 @@
+{
+    "id": "681c8990be391ef0be99c36f2919aa31",
+    "metadata": {
+        "fullname": "xrandr-MR-2580181009",
+        "name": "HDMI-0"
+    },
+    "mode": {
+        "refresh": 90.00018310546875,
+        "size": {
+            "height": 1440,
+            "width": 2880
+        }
+    },
+    "rotation": 1,
+    "scale": 1
+}

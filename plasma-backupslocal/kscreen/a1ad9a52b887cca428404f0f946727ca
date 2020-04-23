@@ -1,0 +1,46 @@
+[
+    {
+        "enabled": true,
+        "id": "a5dcb7b50082e0b0bd774d8f122e404b",
+        "metadata": {
+            "fullname": "xrandr-G257HU-T1WAA0012411",
+            "name": "HDMI-0"
+        },
+        "mode": {
+            "refresh": 59.9505500793457,
+            "size": {
+                "height": 1440,
+                "width": 2560
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    },
+    {
+        "enabled": true,
+        "id": "d7bee23541434fa6a8cbc2ba8d24fb7d",
+        "metadata": {
+            "fullname": "xrandr-unknown",
+            "name": "DP-0"
+        },
+        "mode": {
+            "refresh": 60.020423889160156,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 2560,
+            "y": 0
+        },
+        "primary": false,
+        "rotation": 1,
+        "scale": 1
+    }
+]
