@@ -1,0 +1,11 @@
+[OSD]
+Enabled=true
+
+[PlasmaToolTips]
+Delay=0.7
+
+[Theme]
+name=breeze-dark
+
+[Wallpapers]
+usersWallpapers=/home/zombie/Documents/ufzombiemaniacbackground.png,/home/zombie/Documents/ufzombiemaniac.png,/home/zombie/Downloads/linussextips.jpg,/home/zombie/Downloads/Windows_Final_3840p_v10_opt.png
